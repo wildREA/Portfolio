@@ -9,7 +9,7 @@
 
 - I'm currently working on different projects in my business college practice. **(Syddansk Erhvervsskole Skolepraktik)**
 
-- I’m currently working with **the C family, databases (Apache), APIs, and more.**
+- I’m currently working with **the C family, databases (Apache, JDK, MySQL), APIs, and more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wildREA/Portfolio](https://github.com/wildREA/Portfolio)
 
