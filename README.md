@@ -1,5 +1,5 @@
 <h1 align="center">Hey, wildREA here!</h1>
-<h3 align="center">I'm the man, the one, the legend, the Fullstack Developer. I create creations for the world, making it go around technologically through coded software.</h3>
+<h3 align="center">I'm the man, the one, the legend, the Fullstack Developer. I create digital assets for the world, making it go around technologically through code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildrea&label=Profile%20views&color=0e75b6&style=flat" alt="wildrea" /> </p>
 
